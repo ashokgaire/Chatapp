@@ -1,4 +1,4 @@
-# SimpleChatApp
+# Simple ChatApp
 >#### Simple Client-Server based Chat Application  using Python Sockets and Threading.
 
 
