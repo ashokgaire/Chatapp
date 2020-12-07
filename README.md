@@ -2,10 +2,11 @@
 >#### Simple Client-Server based Chat Application  using Python Sockets and Threading.
 
 
+![server](https://raw.githubusercontent.com/ashokgaire/Chatapp/main/server.png)
 
-![client](https://raw.githubusercontent.com/ashokgaire/GitProfile/master/static/screenshot.png)
+![client](https://raw.githubusercontent.com/ashokgaire/Chatapp/main/client.png)
 
-![server](https://raw.githubusercontent.com/ashokgaire/GitProfile/master/static/screenshot.png)
+
 
 #### Usage:
 
